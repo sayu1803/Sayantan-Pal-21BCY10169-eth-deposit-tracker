@@ -1,0 +1,4 @@
+etherium-deposit-tracker-node/node_modules/
+etherium-deposit-tracker-node/.env
+eth-deposit-tracker-py-block-scanner/.env
+eth-deposit-tracker-py-block-scanner/.venv/
